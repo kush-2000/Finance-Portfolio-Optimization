@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://brand.utexas.edu/sites/default/files/images/logos/mccombs_fullcolor_horizontal.png" alt="McCombs School of Business" width="400"/>
-</p>
 
 # 📈 Investment Insiders: Portfolio Optimization
 
